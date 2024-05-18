@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.fluxtah:ask-plugin-sdk:0.5.0")
+    implementation("com.github.fluxtah:ask-plugin-sdk:0.7.2")
 
     testImplementation(kotlin("test"))
 }
